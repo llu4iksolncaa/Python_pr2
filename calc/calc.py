@@ -50,12 +50,7 @@ def main():
             match a:
                 case 1:
                     Schitaem()
-                case 2:
-                    Stroki()
-                case 3:
-                    Matritsa()
-                case 0:
-                    break
+
         except Exception:
             print("Нормально вводи!")
 
